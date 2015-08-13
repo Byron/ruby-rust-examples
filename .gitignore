@@ -1,2 +1,4 @@
+Cargo.lock
 *.dylib
 *.so
+target/

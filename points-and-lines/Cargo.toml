@@ -1,0 +1,9 @@
+[package]
+
+name = "points"
+version = "0.0.1"
+
+[lib]
+name = "points"
+path = "points.rs"
+crate-type = ["dylib"]
